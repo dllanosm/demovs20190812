@@ -11,6 +11,8 @@ namespace WebApplication2
 {
     public class Program
     {
+        public int edad { get; set; }
+
         public static void Main(string[] args)
         {
             // Comentario
