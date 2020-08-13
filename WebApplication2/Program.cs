@@ -14,6 +14,8 @@ namespace WebApplication2
         public int edad { get; set; }
         public string nombre { get; set; }
 
+        public string Pais { get; set; }
+
         public static void Main(string[] args)
         {
             // Comentario
